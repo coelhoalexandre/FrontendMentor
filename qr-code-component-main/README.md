@@ -7,13 +7,13 @@ My English is not that advanced, so I apologize if there are any mistakes. (O me
 
 ## Tabela de Conteúdos
 
-- [Overview (Visão Geral)](#overview(visão-geral))
+- [Overview (Visão Geral)](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process (O meu processo)](#my-process)
   - [Built with (Construído com)](#built-with)
   - [Continued development (Desenvolvimento continuado)](#continued-development)
-- [Author (Autor)](#author-autor)
+- [Author (Autor)](#author)
 
 ## Overview (Visão Geral)
 
@@ -29,7 +29,7 @@ My English is not that advanced, so I apologize if there are any mistakes. (O me
 
 - FrontendMentor Repository(Repositório FrontendMentor): [Repository (Repositório)](https://github.com/coelhoalexandre/frontendmentor)
 
-## My process (O meu processo)
+## My process
 
 I started by creating the HTML structure, already thinking about the Flexbox application. 
 
@@ -47,7 +47,7 @@ Por fui estilizando os container até eu acreditar que estava muito parecido com
 
 Fiz todo o estilo pensando primariamente para o celular, porém nem precisei fazer estilos para Desktop em razão de já está adequado.)
 
-### Built with (Construído com)
+### Built with
 
 - Semantic HTML5 markup (Marcação HTML5 semântica)
 - CSS custom properties (Propriedades personalizadas do CSS)
@@ -73,7 +73,7 @@ It was this content that I kept thinking about the most while doing this challen
 
 Foram estes conteúdos que mais fiquei pensando enquanto fazia este desafio.)
 
-## Author(Autor)
+## Author
 
 - Frontend Mentor - [@coelhoalexandre](https://www.frontendmentor.io/profile/coelhoalexandre)
 - GitHub - [coelhoalexandre](https://github.com/coelhoalexandre)
