@@ -13,7 +13,7 @@ My English is not that advanced, so I apologize if there are any mistakes. (O me
 - [My process (O meu processo)](#my-process)
   - [Built with (Construído com)](#built-with)
   - [Continued development (Desenvolvimento continuado)](#continued-development)
-- [Author (Autor)](#author)
+- [Author (Autor)](#author(autor))
 
 ## Overview(Visão Geral)
 
@@ -73,7 +73,7 @@ It was this content that I kept thinking about the most while doing this challen
 
 Foram estes conteúdos que mais fiquei pensando enquanto fazia este desafio.)
 
-## Author (Autor)
+## Author(Autor)
 
 - Frontend Mentor - [@coelhoalexandre](https://www.frontendmentor.io/profile/coelhoalexandre)
 - GitHub - [coelhoalexandre](https://github.com/coelhoalexandre)
