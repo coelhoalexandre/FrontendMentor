@@ -7,7 +7,7 @@ My English is not that advanced, so I apologize if there are any mistakes. (O me
 
 ## Tabela de Conteúdos
 
-- [Overview (Visão Geral)](#overview-(visão-Geral))
+- [Overview (Visão Geral)](#overview(visão-geral))
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process (O meu processo)](#my-process)
@@ -15,7 +15,7 @@ My English is not that advanced, so I apologize if there are any mistakes. (O me
   - [Continued development (Desenvolvimento continuado)](#continued-development)
 - [Author (Autor)](#author)
 
-## Overview (Visão Geral)
+## Overview(Visão Geral)
 
 ### Screenshot
 
