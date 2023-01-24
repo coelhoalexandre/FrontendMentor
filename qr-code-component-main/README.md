@@ -1,93 +1,79 @@
 # Frontend Mentor - QR code component solution
 
+
 Está é uma solução para o [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+
+My English is not that advanced, so I apologize if there are any mistakes. (O meu inglês não é assim tão avançado, por isso peço desculpa se houver algum erro.)
 
 ## Tabela de Conteúdos
 
-- [Visão Geral](#visão-geral)
+- [Overview (Visão Geral)](#visão-geral)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [My process (O meu processo)](#my-process)
+  - [Built with (Construído com)](#built-with)
+  - [Continued development (Desenvolvimento continuado)](#continued-development)
+- [Author (Autor)](#author)
 
-## Visão Geral
+## Overview (Visão Geral)
 
 ### Screenshot
 
-![](./src/images/screenshot.png)
+![Screenshot of the final result (Screenshot do resultado final)](./src/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL(URL da Solução): [Repository (Repositório)](https://github.com/coelhoalexandre/frontendmentor/tree/main/qr-code-component-main)
 
-## My process
+- Live Site URL: [GitHub Pages](https://coelhoalexandre.github.io/frontendmentor/qr-code-component-main/)
 
-### Built with
+- FrontendMentor Repository(Repositório FrontendMentor): [Repository (Repositório)](https://github.com/coelhoalexandre/frontendmentor)
 
-- Semantic HTML5 markup
-- CSS custom properties
+## My process (O meu processo)
+
+I started by creating the HTML structure, already thinking about the Flexbox application. 
+
+I applied a CSS reset that I saw from one of my favorite youtuber.
+
+Then I kept styling the containers until I thought it was very similar to the design.
+
+I did all the styling thinking primarily for mobile, but I didn't even need to style for Desktop because it is already adequate.
+
+(Comecei criando a estrutura HTML, já pensando na aplicação da Flexbox.
+
+Apliquei um reset CSS que acabei vendo de uma das minhas youtuber favoritas.
+
+Por fui estilizando os container até eu acreditar que estava muito parecido com o da design.
+
+Fiz todo o estilo pensando primariamente para o celular, porém nem precisei fazer estilos para Desktop em razão de já está adequado.)
+
+### Built with (Construído com)
+
+- Semantic HTML5 markup (Marcação HTML5 semântica)
+- CSS custom properties (Propriedades personalizadas do CSS)
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Mobile-first workflow (Fluxo de trabalho móvel-primeiro)
+- Virtual Studio Code
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+### Continued development (Desenvolvimento continuado)
 
-### What I learned
+I want to understand more about it:
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+- Reset CSS
+- Flexbox
+- Grid Layout
 
-To see how you can add code snippets, see below:
+It was this content that I kept thinking about the most while doing this challenge.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+(Pretendo entender melhor sobre:
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+- Reset CSS
+- Flexbox
+- Grid Layout
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+Foram estes conteúdos que mais fiquei pensando enquanto fazia este desafio.)
 
-### Continued development
+## Author (Autor)
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Frontend Mentor - [@coelhoalexandre](https://www.frontendmentor.io/profile/coelhoalexandre)
+- GitHub - [coelhoalexandre](https://github.com/coelhoalexandre)
