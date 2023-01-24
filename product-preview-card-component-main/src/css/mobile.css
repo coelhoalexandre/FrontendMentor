@@ -1,0 +1,115 @@
+main.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    width: 100vw;
+
+    background-color: hsl(30, 38%, 92%);
+}
+
+section.product {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+
+    min-height: 500px;
+    width: 300px;
+    border-radius: 10px;
+
+    background-color: white;
+
+    overflow: hidden;
+}
+
+section.product img {
+    width: 300px;
+}
+
+div.description {
+    padding: 25px;
+}
+
+span.product-category {
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 1rem;
+    font-weight: 500;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+section.product h1 {
+    padding: 10px 0px;
+    font-size: 2.8rem;
+    font-weight: bold;
+    font-family: 'Fraunces', serif;
+}
+
+section.product p {
+    margin: 0px 0px 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+
+div.price-container {
+    display: flex;
+    align-items: center;
+}
+
+span.current-price {
+    margin-right: 20px;
+    font-family: 'Fraunces', serif;
+    color: hsl(158, 36%, 37%);
+    font-size: 2.8rem;
+    font-weight: bold;
+}
+
+span.original-price {
+    color: hsl(228, 12%, 48%);
+    font-size: 1rem;
+    text-decoration: line-through;
+}
+
+button.add-to-cart-btn {
+    width: 100%;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+
+    background-color: hsl(158, 36%, 37%);
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+    transition: .2s all;
+}
+
+button.add-to-cart-btn:hover {
+    background-color: hsl(159, 39%, 28%);
+    transform: scale(1.05);
+}
+
+.attribution { 
+    padding: 5px;
+    font-size: 1.1rem; 
+    text-align: center; 
+}
+
+.attribution p {
+    padding: 5px;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}

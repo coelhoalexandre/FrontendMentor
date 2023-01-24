@@ -1,0 +1,33 @@
+@media screen and (min-width: 1024px) {
+    section.product {
+        /* display: flex; */
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+        min-height: 400px;
+        min-width: 600px;
+        border-radius: 10px;
+    }
+
+    section.product img, picture {
+        height: 400px;
+        width: 300px;
+    }
+
+    div.description {
+        padding: 0 30px;
+    }
+
+    section.product h1 {
+        font-size: 3.2rem;
+    }
+
+    section.product p {
+        font-size: 1.4rem;
+    }
+
+    section.product div.price-container {
+        padding: 10px 0px;
+    }
+}
