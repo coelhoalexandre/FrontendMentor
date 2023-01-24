@@ -15,7 +15,7 @@ My English is not that advanced, so I apologize if there are any mistakes. (O me
   - [Continued development (Desenvolvimento continuado)](#continued-development)
 - [Author (Autor)](#author)
 
-## Overview (Visão Geral)
+## Overview
 
 ### Screenshot
 
