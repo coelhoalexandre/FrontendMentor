@@ -15,7 +15,7 @@ My English is not that advanced, so I apologize if there are any mistakes. (O me
   - [Continued development (Desenvolvimento continuado)](#continued-development)
 - [Author (Autor)](#author-autor)
 
-## Overview(Visão Geral)
+## Overview (Visão Geral)
 
 ### Screenshot
 
@@ -55,7 +55,7 @@ Fiz todo o estilo pensando primariamente para o celular, porém nem precisei faz
 - Mobile-first workflow (Fluxo de trabalho móvel-primeiro)
 - Virtual Studio Code
 
-### Continued development (Desenvolvimento continuado)
+### Continued development
 
 I want to understand more about it:
 
