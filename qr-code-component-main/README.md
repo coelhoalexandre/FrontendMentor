@@ -19,7 +19,7 @@ My English is not that advanced, so I apologize if there are any mistakes. (O me
 
 ### Screenshot
 
-![Screenshot of the final result (Screenshot do resultado final)](./src/images/screenshot.png)
+[Screenshot of the final result (Screenshot do resultado final)](./src/images/screenshot.png)
 
 ### Links
 
