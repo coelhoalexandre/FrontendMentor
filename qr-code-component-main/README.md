@@ -13,7 +13,7 @@ My English is not that advanced, so I apologize if there are any mistakes. (O me
 - [My process (O meu processo)](#my-process)
   - [Built with (Construído com)](#built-with)
   - [Continued development (Desenvolvimento continuado)](#continued-development)
-- [Author (Autor)](#author(autor))
+- [Author (Autor)](#author-autor)
 
 ## Overview(Visão Geral)
 
