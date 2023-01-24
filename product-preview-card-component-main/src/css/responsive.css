@@ -5,13 +5,13 @@
         justify-content: center;
         align-items: center;
 
-        min-height: 400px;
+        min-height: 450px;
         min-width: 600px;
         border-radius: 10px;
     }
 
     section.product img, picture {
-        height: 400px;
+        height: 450px;
         width: 300px;
     }
 
@@ -19,7 +19,14 @@
         padding: 0 30px;
     }
 
+    span.product-category {
+        font-size: 1.2rem;
+        font-weight: 500;
+        text-transform: uppercase;
+    }
+
     section.product h1 {
+        padding: 20px 0;
         font-size: 3.2rem;
     }
 
@@ -28,6 +35,6 @@
     }
 
     section.product div.price-container {
-        padding: 10px 0px;
+        padding: 15px 0px;
     }
 }
