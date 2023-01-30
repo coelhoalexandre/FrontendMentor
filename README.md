@@ -1,10 +1,8 @@
 <h1 align="center"> Frontend Mentor Platform Projects </h1>
 
-<div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  ![In Progress](https://img.shields.io/badge/In_Progress-blue.svg)
 
-</div>
 
 <p align="center">Here you will find all my design-based solutions delivered by the Frontend Mentor platform!</p>
 
