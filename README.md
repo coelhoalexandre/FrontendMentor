@@ -13,3 +13,10 @@
 
 - [QR Code Component Solution](./qr-code-component-main) | [README](https://github.com/coelhoalexandre/frontendmentor/blob/main/qr-code-component-main/README.md)
 - [Product preview card component Solution ](./product-preview-card-component-main) | [README](https://github.com/coelhoalexandre/frontendmentor/blob/main/product-preview-card-component-main/README.md)
+
+## Author
+
+- Frontend Mentor - [@coelhoalexandre](https://www.frontendmentor.io/profile/coelhoalexandre)
+- GitHub - [coelhoalexandre](https://github.com/coelhoalexandre)
+- LinkedIn - [-coelhoalexandre](https://www.linkedin.com/in/-coelhoalexandre/)
+- Email - [Alexandre Coelho](mailto:alexandrecoelhocontato@gmail.com)
