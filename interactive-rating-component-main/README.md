@@ -35,7 +35,6 @@ Esta é uma solução para o [Desafio de pré-visualização de componente de ca
 **ENGLISH**
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - Mobile-first workflow
 - TypeScript
@@ -43,7 +42,6 @@ Esta é uma solução para o [Desafio de pré-visualização de componente de ca
 **PORTUGUÊS**
 
 - Marcação HTML5 semântica
-- Propriedades personalizadas do CSS
 - Flexbox
 - Fluxo de trabalho móvel-primeiro
 - TypeScript
