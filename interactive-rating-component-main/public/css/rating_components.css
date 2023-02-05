@@ -1,0 +1,102 @@
+:root {
+    --color-orange: hsl(25, 97%, 53%);
+    --color-white: hsl(0, 0%, 100%);
+    --color-lightgrey: hsl(217, 12%, 63%);
+    --color-mediumgrey: hsl(216, 12%, 54%);
+    --color-darkblue: hsl(213, 19%, 18%);
+    --color-verydarkblue: hsl(216, 12%, 8%);
+}
+
+.rating-component__image--bg-darkgray {
+    border-radius: 50%;
+    padding: 15px;
+    background-color: var(--color-darkblue);
+}
+
+.rating-component__main-title {
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 20px 0px 15px;
+}
+
+.rating-component__paragraph {
+    color: var(--color-mediumgrey);
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+.rating-component__rating-choice-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+}
+
+.rating-component__rating-value {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    width: 45px;
+    border: none;
+    border-radius: 50%;
+    /* padding: 20px; */
+
+    background-color: var(--color-darkblue);
+    color: var(--color-lightgrey);
+    font-size: 1.5rem;
+    font-weight: bold;
+
+    user-select: none;
+    transition: 0.2s;
+}
+
+.rating-component__rating-value:hover {
+    background-color: var(--color-lightgrey);
+    color: white;
+}
+
+.rating-component__btn {
+    width: 100%;
+    border: none;
+    border-radius: 30px;
+    padding: 15px;
+
+    background-color: var(--color-orange);
+    color: white;
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    transition: 0.2s;
+}
+
+.rating-component__btn:hover {
+    background-color: var(--color-white);
+    color: var(--color-orange);
+}
+
+.rating-component__rating-result-container {
+    display: flex;
+    align-self: center;
+    margin: 20px 0px 10px;
+    border-radius: 30px;
+    padding: 10px 20px;
+    background-color: var(--color-darkblue);
+    color: var(--color-orange);
+    font-size: 1.4rem;
+}
+
+.attribution { 
+    margin-top: 10px;
+    color: white;
+    font-size: 1.1rem; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: var(--color-orange)
+}
