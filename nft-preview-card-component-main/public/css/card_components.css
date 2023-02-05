@@ -1,0 +1,138 @@
+:root {
+    --softblue: hsl(215, 51%, 70%);
+    --cyan: hsl(178, 100%, 50%);
+    --verydarkblue-main-BG: hsl(217, 54%, 11%);
+    --verydarkblue-card-BG: hsl(216, 50%, 16%);
+    --verydarkblue-line: hsl(215, 32%, 27%);
+    --white: hsl(0, 0%, 100%);
+}
+
+.card__nft {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.card__nft:hover {
+    opacity: 0.5;
+}
+
+.card__div--after {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.card__div--after:hover{
+    background-color: var(--cyan);
+}
+
+.card__div--after {
+    content: "";
+    background-image: url("../images/icon-view.svg");
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
+.card__main-title {
+    align-self: flex-start;
+
+    margin: 30px 0px 20px;
+
+    color: var(--white);
+    font-size: 2.3rem;
+    font-weight: 600;
+
+    transition: .3s;
+}
+
+.card__main-title:hover {
+    color: var(--cyan);
+}
+
+.card__paragraph {
+    margin-bottom: 20px;
+
+    color: var(--softblue);
+    font-size: 1.7rem;
+    font-weight: 300;
+    line-height: 2.8rem;
+}
+
+.card__description {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+    border-bottom: 0.1rem solid var(--verydarkblue-line);
+    padding-bottom: 15px;
+}
+
+.card__value {
+    display: flex;
+    align-items: center;
+
+    color: var(--cyan);
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
+}
+
+.card__ethereum {
+    margin-right: 10px;
+}
+
+.card__days-left {
+    display: flex;
+    align-items: center;
+    
+    color: var(--softblue);
+    font-size: 1.5rem;
+}
+
+.card__clock {
+    margin-right: 5px;
+}
+
+.card__creator {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+    width: 100%;
+    padding-top: 20px;
+}
+
+.card__avatar {
+    width: 35px;
+    margin-right: 15px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.card__creator-name {
+    color: var(--softblue);
+    font-size: 1.6rem;
+    font-weight: 300;
+}
+
+.card__name {
+    color: var(--white);
+    transition: 0.3s;
+}
+
+.card__name:hover {
+    color: var(--cyan);
+}
+
+.attribution { 
+    margin-top: 10px;
+    color: white;
+    font-size: 1.1rem; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: var(--cyan)
+}

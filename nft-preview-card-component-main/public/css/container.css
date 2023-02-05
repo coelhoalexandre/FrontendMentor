@@ -1,0 +1,36 @@
+:root {
+    --softblue: hsl(215, 51%, 70%);
+    --cyan: hsl(178, 100%, 50%);
+    --verydarkblue-main-BG: hsl(217, 54%, 11%);
+    --verydarkblue-card-BG: hsl(216, 50%, 16%);
+    --verydarkblue-line: hsl(215, 32%, 27%);
+    --white: hsl(0, 0%, 100%);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    width: 100vw;
+
+    background-color: var(--verydarkblue-main-BG);
+}
+
+.container__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 300px;
+    border-radius: 15px;
+    padding: 25px;
+
+    background-color: var(--verydarkblue-card-BG);
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
