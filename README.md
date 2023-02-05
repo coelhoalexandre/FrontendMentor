@@ -16,7 +16,8 @@
 ### Newbie
 
 - [QR Code Component Solution](./qr-code-component-main) | [README](https://github.com/coelhoalexandre/frontendmentor/blob/main/qr-code-component-main/README.md)
-- [Product preview card component Solution ](./product-preview-card-component-main) | [README](https://github.com/coelhoalexandre/frontendmentor/blob/main/product-preview-card-component-main/README.md)
+- [Product Preview Card Component Solution ](./product-preview-card-component-main) | [README](https://github.com/coelhoalexandre/frontendmentor/blob/main/product-preview-card-component-main/README.md)
+- [Interactive Rating Component Solution](./interactive-rating-component-main/public/) | [README](https://coelhoalexandre.github.io/FrontendMentor/interactive-rating-component-main/)
 
 ## Author
 
