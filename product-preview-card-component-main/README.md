@@ -1,9 +1,11 @@
 # Frontend Mentor - Product preview card component solution
 
 **ENGLISH**
+
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
 **PORTUGUÊS**
+
 Esta é uma solução para o [Desafio de pré-visualização de componente de cartão de produto no Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
 ## Table of contents (Tabela de conteúdos)
