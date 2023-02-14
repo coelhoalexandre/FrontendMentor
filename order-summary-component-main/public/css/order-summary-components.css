@@ -1,0 +1,23 @@
+:root {
+    --colorPaleBlue: hsl(225, 100%, 94%);
+    --colorBrightBlue: hsl(245, 75%, 52%);
+    --colorVeryBaleBlue: hsl(225, 100%, 98%);
+    --colorDesaturatedBlue: hsl(224, 23%, 55%);
+    --colorDarkBlue: hsl(223, 47%, 23%);
+}
+
+.order-summary-component__main-img {
+    width: 330px;
+}
+
+.order-summary-component__main-title {
+    margin: 40px 0px 20px;
+    font-size: 2.4rem;
+    font-weight: 900;
+}
+
+.order-summary-component__paragraph {
+    color: gray;
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+}

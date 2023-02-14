@@ -1,0 +1,38 @@
+:root {
+    --colorPaleBlue: hsl(225, 100%, 94%);
+    --colorBrightBlue: hsl(245, 75%, 52%);
+    --colorVeryBaleBlue: hsl(225, 100%, 98%);
+    --colorDesaturatedBlue: hsl(224, 23%, 55%);
+    --colorDarkBlue: hsl(223, 47%, 23%);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    width: 100vw;
+
+    background-color: var(--colorPaleBlue);
+}
+
+.container__order-summary-component {
+    width: 330px;
+    border-radius: 20px;
+    overflow: hidden;
+
+    background-color: white;
+    text-align: center;
+}
+
+.--padding {    
+    display: flex;
+    flex-direction: column;
+
+    padding: 0px 40px;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
