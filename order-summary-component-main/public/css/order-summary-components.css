@@ -11,13 +11,80 @@
 }
 
 .order-summary-component__main-title {
-    margin: 40px 0px 20px;
-    font-size: 2.4rem;
+    margin: 35px 0px 0px;
+    color: var(--colorDarkBlue);
+    font-size: 2.2rem;
     font-weight: 900;
 }
 
 .order-summary-component__paragraph {
+    padding: 20px 5px;
     color: gray;
     font-size: 1.6rem;
     line-height: 2.2rem;
+}
+
+.order-summary-component__plans {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: var(--colorVeryBaleBlue);
+}
+
+.order-summary-component__music-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.order-summary-component__plan-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.order-summary-component__plan {
+    margin-bottom: 5px;
+
+    color: var(--colorDarkBlue);
+    font-size: 1.4rem;
+    font-weight: 900;
+}
+
+.order-summary-component__plan-price {
+    color: var(--colorDesaturatedBlue);
+    font-size: 1.4rem;
+}
+
+.order-summary-component__change-button {
+    color: var(--colorBrightBlue);
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.order-summary-component__payment-button {
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+
+    color: white;
+    background-color: var(--colorBrightBlue);
+    font-size: 1.5rem;
+    font-weight: 700;
+
+    box-shadow: -1px 8px 20px 0px hsla(245, 75%, 52%, 0.377);
+}
+
+.order-summary-component__cancel-button {
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+
+    color: var(--colorDesaturatedBlue);
+    background-color: transparent;
+    font-size: 1.5rem;
+    font-weight: 700;
 }
