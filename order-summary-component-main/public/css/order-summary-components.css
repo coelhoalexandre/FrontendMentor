@@ -63,6 +63,13 @@
     font-size: 1.3rem;
     font-weight: bold;
     text-decoration: underline;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.order-summary-component__change-button:hover {
+    color: rgb(134, 123, 248);
+    text-decoration: none;
 }
 
 .order-summary-component__payment-button {
@@ -76,6 +83,13 @@
     font-weight: 700;
 
     box-shadow: -1px 8px 20px 0px hsla(245, 75%, 52%, 0.377);
+
+    cursor: pointer;
+    transition: .2s;
+}
+
+.order-summary-component__payment-button:hover {
+    background-color: rgb(134, 123, 248);
 }
 
 .order-summary-component__cancel-button {
@@ -87,4 +101,17 @@
     background-color: transparent;
     font-size: 1.5rem;
     font-weight: 700;
+
+    cursor: pointer;
+    transition: .2s;
+}
+
+.order-summary-component__cancel-button:hover {
+    color: hsl(223, 47%, 23%);
+}
+
+@media screen and (min-width: 800px) {
+    .order-summary-component__main-img {
+        min-width: 450px;
+    }
 }
