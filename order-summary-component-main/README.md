@@ -35,3 +35,4 @@ Esta é uma solução para o [Order summary card challenge on Frontend Mentor](h
 
 - Frontend Mentor - [@coelhoalexandre](https://www.frontendmentor.io/profile/coelhoalexandre)
 - GitHub - [coelhoalexandre](https://github.com/coelhoalexandre)
+- LinkedIn - [-coelhoalexandre](https://www.linkedin.com/in/-coelhoalexandre/)
