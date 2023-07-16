@@ -20,7 +20,7 @@ time, mark, audio, video {
 }
 
 html, body, button {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Kumbh Sans', sans-serif;
     font-size: 62.5%;
 }
 /* HTML5 display-role reset for older browsers */
