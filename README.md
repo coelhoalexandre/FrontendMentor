@@ -12,7 +12,7 @@
 
 <hr>
 
-To be able to access the pages, open the site on GitHub Pages. <a href = "https://coelhoalexandre.github.io/FrontendMentor/">Aqui!</a>
+To be able to access the pages, open the site on GitHub Pages. <a href = "https://coelhoalexandre.github.io/FrontendMentor/">Here!</a>
 
 <hr>
 
