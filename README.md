@@ -10,6 +10,11 @@
 
 <p align="center">Here you will find all my design-based solutions delivered by the Frontend Mentor platform!</p>
 
+<hr>
+
+To be able to access the pages, open the site on GitHub Pages. <a href = "https://coelhoalexandre.github.io/FrontendMentor/">Aqui!</a>
+
+<hr>
 
 ## Difficulty
 
